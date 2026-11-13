@@ -1,12 +1,11 @@
-
-<h1 align="center">Hi, I'm Anfel 👋</h1>
+ <h1 align="center">Hi, I'm Anfel 👋</h1>
 
 <h3 align="center">
-  Computer Science Student | Developer | AI Enthusiast
+  Computer Science Student | Software Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-  Interested in Software Development, Artificial Intelligence,
+  Interested in Software Engineering, Artificial Intelligence,
   and Game Development.
 </p>
 
@@ -15,10 +14,10 @@
 ### About Me
 
 - 🎓 Computer Science Student
-- 💻 Interested in building practical software projects
-- 🧠 Exploring Artificial Intelligence and Machine Learning
-- 🎮 Interested in Game Development
-- 💻 Currently working on improving my programming skills
+- 💻 Passionate about understanding how software works and building practical applications.
+- 🧠 Exploring Artificial Intelligence and Machine Learning.
+- 🎮 Interested in Game Development.
+- ⚙️ Enjoy solving programming problems and improving my technical skills.
 
 ### Tech Stack
 
@@ -44,14 +43,14 @@
 
 | Project | Description | Technology |
 |---|---|---|
-| Daily Coding Challenge | Programming and problem-solving practice | C |
+| [Daily Coding Challenge](https://github.com/anfel-dev/Daily-Coding-Challenge) | Programming challenges and problem-solving practice | C |
 
-### Currently Learning
+### Currently Exploring
 
-- Java & Object-Oriented Programming
+- Artificial Intelligence & Machine Learning
 - Python for AI and Data Science
 - Software Engineering
-- Web Development
+- Game Development
 
 ---
 
